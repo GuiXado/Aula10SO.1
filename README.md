@@ -7,8 +7,8 @@ FOOD NAME tabulação SCIENTIFIC NAME tabulação SUBGROUP
 
 Exemplo:
 
-Kiwi Actinidia chinensis Tropical fruits
+Kiwi           Actinidia chinensis     Tropical fruits
 
-Pineapple Ananas comosus Tropical fruits
+Pineapple      Ananas comosus          Tropical fruits
 
 ...
